@@ -1,12 +1,18 @@
-# <img src="icon.png" alt="Estus Icon" width="30" /> ESTUS MANAGER
+<p align="center">
+  <img src="icon.png" alt="Estus Icon" /> 
+</p>
 
-The Cinnamon Power Applet in a Dark Souls skin.
+# Estus Power Applet
+
+A custom Dark Souls–themed tray icon for the Cinnamon `power` applet.
+
+This project modifies the default `power@cinnamon.org` applet to use a Estus icons in the system tray.
 
 ## Installation
 1. Download or `git clone` this repository into your Cinnamon applets directory:
 
    ```bash
-   git clone https://github.com/hhiruko/estus-power.git ~/.local/share/cinnamon/applets/estus-power@hhiruko
+   git clone https://github.com/hhiruko/estus-power-applet.git ~/.local/share/cinnamon/applets/estus-power@hhiruko
    ```
 
 2. If you downloaded manually, make sure the folder is named exactly:
@@ -24,6 +30,6 @@ This project is licensed under the GNU General Public License v2.0.
 
 ## Acknowledgments
 
-This project is based on the [Cinnamon Desktop Environment](https://github.com/linuxmint/cinnamon),
-which is also licensed under the GNU GPL v2.0.
+- [Cinnamon Desktop Environment](https://github.com/linuxmint/cinnamon)
+- [FromSoftware](https://www.fromsoftware.jp/ww/), for the Dark Souls universe
 
