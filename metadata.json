@@ -1,0 +1,7 @@
+{
+ "uuid": "estus-power@hhiruko",
+ "name": "Estus Manager",
+ "description": "Cinnamon power management applet (power@cinnamon.org) in a Dark Souls skin",
+ "icon": "icon.png",
+ "license": "GPLv2"
+}
