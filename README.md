@@ -1,6 +1,4 @@
-<img src="icon.png" alt="Estus Icon" width="50"/>
-
-# ESTUS MANAGER
+# <img src="icon.png" alt="Estus Icon" width="50"/> ESTUS MANAGER
 
 The Cinnamon Power Applet in a Dark Souls skin.
 
