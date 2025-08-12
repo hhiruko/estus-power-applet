@@ -6,7 +6,7 @@
 
 A custom Dark Souls–themed tray icon for the Cinnamon `power` applet.
 
-This project modifies the default `power@cinnamon.org` applet to use a Estus icons in the system tray.
+This project modifies the default `power@cinnamon.org` applet to use Estus icons in the system tray.
 
 ## Installation
 1. Download or `git clone` this repository into your Cinnamon applets directory:
